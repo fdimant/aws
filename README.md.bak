@@ -13,6 +13,9 @@ Git to find the commit where a bug was introduced. To play the modified version
 of the game, simply open the index.html file in your web browser.
 
 Many thanks to Doug for creating this awesome game.
+<<<<<<< HEAD
 Nova linha versão branch2
-Nova linha versão 2
 ||||||| merged common ancestors
+=======
+Nova linha versão 2
+>>>>>>> 0061362797ff177b34442116d04e712ab605800c
